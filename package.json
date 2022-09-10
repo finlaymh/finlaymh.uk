@@ -1,0 +1,23 @@
+{
+  "name": "finlaymh.uk",
+  "version": "1.0.0",
+  "description": "My website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finlaymh/finlaymh.uk.git"
+  },
+  "keywords": [
+    "personal",
+    "website"
+  ],
+  "author": "Finlay Haggar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finlaymh/finlaymh.uk/issues"
+  },
+  "homepage": "https://github.com/finlaymh/finlaymh.uk#readme"
+}
